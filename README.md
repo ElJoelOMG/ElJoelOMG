@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ElJoelOMG
+- 👋 Hi, I’m @JoseCerezo610
 - 👀 I’m interested in Make Basic Games Using IA and recursive functions
 - 🌱 I’m currently learning Java, C++, C, Pyton, IA
 - 💞️ I’m looking to collaborate on every simple proyect
